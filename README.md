@@ -12,6 +12,7 @@ Projects:
 - Implementing mini-batch gradient descent, momentum, Adam, Learning Rate decay and Scheduling.
 - Building a neural network using Tensorflow.
 ## Structuring Machine Learning Projects
-
+Learning objectives: train/dev/test sets, constructing and evaluating metrics, bias/variance problem, error analysis, cleaning data, iteration process, transfer learning, end-to-end deep learning.
 ## Convolutional Neural Networks
+
 ## Sequence Models

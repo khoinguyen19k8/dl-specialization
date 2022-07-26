@@ -3,8 +3,15 @@ Projects completed in the Deep Learning Specilization offered by DeepLearning.AI
 ## Neural Networks and Deep Learning
 Learning objectives: Neural networks. <br />
 Projects:
-- Logistic Regression
+- Cat recognition with Logistic Regression.
+- Cat recognition with a Deep Neural Network.
 ## Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+Learning objectives: Gradient checking, weights initalization, regularization techniques, optimization. . <br />
+Projects:
+- Implementing gradient checking.
+- Implementing mini-batch gradient descent, momentum, Adam, Learning Rate decay and Scheduling.
+- Building a neural network using Tensorflow.
 ## Structuring Machine Learning Projects
+
 ## Convolutional Neural Networks
 ## Sequence Models

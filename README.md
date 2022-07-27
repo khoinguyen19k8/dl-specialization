@@ -24,3 +24,12 @@ Projects:
 - Implementing Face reocgnition and verification models.
 - Art generation with neural style transfer.
 ## Sequence Models
+Learning objectives: Word embeddings, Word2Vec, GloVe, Debiasing word embeddings, RNN, GRU, LSTM, Attention models, Transformer model, <br />
+Projects: 
+- Implementing an RNN model to generate names.
+- Implementing an LSTM model to generate Jazz music.
+- Applying word embeddings to a sentiment classification model (classify appropriate emoji for a sentence).
+- Measuring similarities, visualizing, and debiasing word embeddings.
+- Implementing an Attention-based model to translate human-readable date into machine-readable dates.
+- Implementing a sequence model to detect trigger word in audio data.
+- Implementing a Transformer model.

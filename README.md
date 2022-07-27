@@ -14,5 +14,13 @@ Projects:
 ## Structuring Machine Learning Projects
 Learning objectives: train/dev/test sets, constructing and evaluating metrics, bias/variance problem, error analysis, cleaning data, iteration process, transfer learning, end-to-end deep learning.
 ## Convolutional Neural Networks
-
+Learning objectives: Convolution layer, pooling layer, ResNets, Inception, MobileNet, one-stage object detection, two-stage object detection, object segmentation models, one-shot learning, neural style transfer. <br />
+Projects:
+- Mood classifier with CNN
+- Implementing ResNets to classify images.
+- Implementing Transfer Learning with MobileNetV2.
+- Car detection in videos with YOLO.
+- Object segmentation for self-driving car with U-Net.
+- Implementing Face reocgnition and verification models.
+- Art generation with neural style transfer.
 ## Sequence Models
